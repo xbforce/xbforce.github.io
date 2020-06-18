@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# [Monteverde Write-Up](https://xbforce.github.io/monteverde)
+### Platform: HackTheBox | Difficulty: Medium | OS: Windows | IP: 10.10.10.172 
+![monteverde](https://user-images.githubusercontent.com/62805453/85055071-88fc5f00-b18c-11ea-855e-d460dcc3c039.png)
+[CLICK HERE TO READ MORE](https://xbforce.github.io/monteverde)
+_____
+# [SHA256 Token Maker](https://github.com/xbforce/tokenmaker-v1.py)
+You can use this tool to make CSRF tokens or make some hashes in a different way. But I do not recommend you to use it as a password storage.
+[CLICK HERE TO READ MORE](https://github.com/xbforce/tokenmaker-v1.py)
+___________________________________________________________________________
+# [Sniper Write-Up](https://xbforce.github.io/sniper)
+### Platform: HackTheBox | Difficulty: Medium | OS: Windows | IP: 10.10.10.151
 
-You can use the [editor on GitHub](https://github.com/xbforce/xbforce.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![sniper](https://user-images.githubusercontent.com/62805453/85051024-7da63500-b186-11ea-8968-ff860896e338.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xbforce/xbforce.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[CLICK HERE TO READ MORE](https://xbforce.github.io/sniper)
