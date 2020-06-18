@@ -23,4 +23,3 @@ You can use this tool to make CSRF tokens or make some hashes in a different way
 ![sniper](https://user-images.githubusercontent.com/62805453/85051024-7da63500-b186-11ea-8968-ff860896e338.png)
 
 [CLICK HERE TO READ MORE](https://xbforce.github.io/sniper)
-.
